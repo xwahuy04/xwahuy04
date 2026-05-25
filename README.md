@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=xwahuy04&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wahyu Havid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <h3 align="center">Helo! Saya Wahyu Havid Baihaqi 👋</h3>
@@ -47,7 +47,7 @@
 ## 📬 Mari Berhubung!
 
 <p align="left">
-  <a href="wahyuhavidbaihaqi@gmail.com">
+  <a href="mailto:wahyuhavidbaihaqi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/wahyu-havid-630548375/">
