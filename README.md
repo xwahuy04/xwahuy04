@@ -1,16 +1,20 @@
-## Hi there 👋
+# Helo, saya xwahuy04! 👋
 
-<!--
-**xwahuy04/xwahuy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang ke profil GitHub saya. Saya seorang pembangun yang bersemangat untuk belajar dan membina perkara baharu.
 
-Here are some ideas to get you started:
+## 🛠 Teknologi yang Saya Gunakan
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Statistik GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xwahuy04&show_icons=true&theme=radical" alt="Statistik xwahuy04" />
+</p>
+
+## 💬 Mari Berhubung!
+- 📧 E-mel: [Masukkan e-mel anda di sini]
+- 🌐 Laman Web/Portfolio: [Masukkan link jika ada]
+
+---
+<p align="center">Terima kasih kerana melawat profil saya! 🚀</p>
